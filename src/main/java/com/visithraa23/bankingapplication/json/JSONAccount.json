@@ -1,0 +1,62 @@
+[
+	{
+		"accountHolderName": "John Doe",
+		"address": "123 Main St, City, Country",
+		"phone": "123-456-7890",
+		"balance": 1000.0
+	},
+	{
+		"accountHolderName": "Jane Smith",
+		"address": "456 Elm St, City, Country",
+		"phone": "987-654-3210",
+		"balance": 1500.0
+	},
+	{
+		"accountHolderName": "Alice Johnson",
+		"address": "789 Oak St, City, Country",
+		"phone": "555-555-5555",
+		"balance": 2000.0
+	},
+	{
+		"accountHolderName": "Bob Williams",
+		"address": "101 Pine St, City, Country",
+		"phone": "777-777-7777",
+		"balance": 2500.0
+	},
+	{
+		"accountHolderName": "Emily Davis",
+		"address": "202 Maple St, City, Country",
+		"phone": "999-999-9999",
+		"balance": 3000.0
+	},
+	{
+		"accountHolderName": "Michael Brown",
+		"address": "303 Cedar St, City, Country",
+		"phone": "111-111-1111",
+		"balance": 3500.0
+	},
+	{
+		"accountHolderName": "Emma Wilson",
+		"address": "404 Walnut St, City, Country",
+		"phone": "222-222-2222",
+		"balance": 4000.0
+	},
+	{
+		"accountHolderName": "William Taylor",
+		"address": "505 Birch St, City, Country",
+		"phone": "333-333-3333",
+		"balance": 4500.0
+	},
+	{
+		"accountHolderName": "Olivia Martinez",
+		"address": "606 Cherry St, City, Country",
+		"phone": "444-444-4444",
+		"balance": 5000.0
+	},
+	{
+		"accountHolderName": "James Anderson",
+		"address": "707 Ash St, City, Country",
+		"phone": "666-666-6666",
+		"balance": 5500.0
+	}
+]
